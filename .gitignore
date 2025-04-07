@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Allow only specific files and folders
+!Hello.java
+!.gitignore
+!World.java
